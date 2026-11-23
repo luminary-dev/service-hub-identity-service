@@ -28,7 +28,7 @@
     "hono": "^4.13.13",
     "jose": "^6.2.3",
     "pg": "8.22.0",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/bcryptjs": "^3.0.0",
